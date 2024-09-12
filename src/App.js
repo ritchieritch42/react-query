@@ -1,5 +1,5 @@
 import './App.css';
-import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 
 const POSTS = [
   { id: 1, title: "Post 1"},
